@@ -1,13 +1,14 @@
-# I'm Greg Oehmen 
+# Hey, I'm Greg Oehmen 
 # Thanks for visiting  🤙  
 
-## Product Leader • AI‑Native Builder • Fractional Chief Product Officer
+## Product Leader • AI‑Native Builder • Fractional Chief Product Officer...
 
-### I turn product strategy into platforms, APIs, and AI-powered products that ship and scale.
+### ...Turning product strategy into platforms, APIs, and AI-powered products that ship and scale.
 
-  -I help founders and teams translate vision into validated roadmaps that ship real value.
 
-  -Led product strategy across global platforms and startups spanning cloud infrastructure, fintech APIs, and AI‑enabled products. 
+  - I help founders and teams translate vision into validated roadmaps that ship real value.
+  
+  - Led product strategy across global platforms and startups spanning cloud infrastructure, fintech APIs, and AI‑enabled products. 
 
 
 
