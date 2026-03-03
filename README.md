@@ -1,4 +1,4 @@
-# Hey, I'm Greg Oehmen 
+# Hi there, &ensp; I'm Greg Oehmen 
 
 ## Product Leader • AI‑Native Builder • Fractional Chief Product Officer
 
