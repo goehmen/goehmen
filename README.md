@@ -1,23 +1,22 @@
 # Hey, I'm Greg Oehmen 
-# Thanks for visiting  🤙  
+Thanks for visiting  🤙  
 
 ## Product Leader • AI‑Native Builder • Fractional Chief Product Officer...
 
-### ...Turning product strategy into platforms, APIs, and AI-powered products that ship and scale.
+ ...Turning product strategy into platforms, APIs, and AI-powered products that ship and scale.
 
 
   - I help founders and teams translate vision into validated roadmaps that ship real value.
   
   - Led product strategy across global platforms and startups spanning cloud infrastructure, fintech APIs, and AI‑enabled products. 
 
+## What I work on
+## About me
+[My PM Portfolio](https://goehmen.dev)\
+[Fractional CPO Website](https://gregoehmen.io) 
 
 
-##  My PM Portfolio  -  https://goehmen.dev
 
-## Fractional CPO Website  -  https://gregoehmen.io 
-
-
-## 💡 Signature Themes
 
 -   Build measurable outcomes, not features\
 -   Glue strategy to execution
@@ -25,12 +24,10 @@
 -   Developer‑centric design meets business impact
 
 
-## 📫 Connect
-
--   🌐 Portfolio & Projects: https://www.goehmen.dev
--   💼 Fractional CPO & Strategy: https://www.gregoehmen.io
--   🧑‍💻 GitHub: https://github.com/goehmen
--   🔗 LinkedIn: https://linkedin.com/in/grego
+## 📫 How to reach me:
+-  📧 Email: greg@gregoehmen.io
+-  🔗 LinkedIn: https://linkedin.com/in/grego
+-  📅 Zoom Call [Grab some time](https://gregoehmen.io/#book)
 ------------------------------------------------------------------------
 *Anything catch your eye?  I'm always open to a convo.  Reach out via any of the above.*
 
