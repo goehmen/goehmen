@@ -4,62 +4,26 @@
 
 ### I turn validated product strategy into platforms, APIs, and AI-powered products that ship and scale.
 
-Led product strategy across global platforms and startups spanning cloud
-infrastructure, fintech APIs, and AI‑enabled products. I help founders
-and teams translate vision into validated roadmaps that ship real value.
+  -I help founders and teams translate vision into validated roadmaps that ship real value.
+
+  -Led product strategy across global platforms and startups spanning cloud infrastructure, fintech APIs, and AI‑enabled products. 
 
 
 
-## 🚀 What I Focus On
+##  My PM Portfolio  -  https://goehmen.dev
 
-### Fractional CPO & Product Strategy
+## Fractional CPO Website  -  https://gregoehmen.io 
 
--   Aligning teams around a clear North Star metric\
--   Rapid problem validation and customer discovery\
--   Go‑to‑market and pricing strategy\
--   Engineering‑ready roadmaps & prioritization frameworks
-
-### Platform & System Thinking
-
--   API design & developer experience\
--   Cloud platforms (AWS, GCP, Azure)\
--   Fintech products (card APIs, transaction controls)\
--   AI products and decision engines
-
-### AI‑Enabled Product Practice
-
--   AI workflows and LLM‑assisted product operations\
--   AI‑powered PRDs and tooling\
--   Scalable data‑informed roadmaps
-
-------------------------------------------------------------------------
 
 ## 💡 Signature Themes
 
 -   Build measurable outcomes, not features\
--   Glue strategy to execution\
--   Show, don't tell, product value\
+-   Glue strategy to execution
+-   Show, don't tell, product value
 -   Developer‑centric design meets business impact
 
-------------------------------------------------------------------------
 
-## 🔧 Selected Work
 
-  -----------------------------------------------------------------------
-  Project                       What It Does
-  ----------------------------- -----------------------------------------
-  **AI‑Powered PRD Generator**  AI‑assisted product definition tooling to
-                                speed discovery and specification
-
-  **Fractional CPO              Product strategy engagements turning
-  Engagements**                 hypotheses into validated roadmaps
-
-  **Platform Metrics            Real‑time insights into adoption and
-  Dashboard**                   health for platform products
-
-  **API Design & Tooling**      Developer‑first APIs and CLI extensions
-                                to accelerate adoption
-  -----------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
